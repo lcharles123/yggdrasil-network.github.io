@@ -181,3 +181,7 @@ The following services are available on the Yggdrasil Network, courtesy of our c
 - [ygg.thingylabs.io/speedtest.html](https://ygg.thingylabs.io/speedtest.html) sponsored by [Thingylabs](https://www.thingylabs.io/)
   - `iperf3 -6 -c ygg-only.thingylabs.io`
   - `iperf3 -4 -c ygg-uplink.thingylabs.io`
+- Located in Germany, can be unavailable, hosted by [lcharles123](github.com/lcharles123)
+  - `iperf3 -c ygg.fvm.mywire.org`
+  - `iperf3 -c ip4.fvm.mywire.org`
+  - `iperf3 -c ip6.fvm.mywire.org`
